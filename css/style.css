@@ -181,6 +181,14 @@ margin-bottom: 23px;
     align-items: center;
     margin-bottom: 107px;
 }
+.i1{
+    width: 42px;
+    height: 42px;
+    border-radius: 42px;
+    background-color: red;
+    justify-content: center;
+    align-items: center;
+}
 .h5{
     color: #FFF;
     font-family: sans, sans-serif;
